@@ -9,3 +9,9 @@ https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?url=https://raw.github
 
 All possible form controls which can be used in the visual editing area:
 https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?url=https://raw.githubusercontent.com/oxygenxml/authoringSamples/master/form-controls/about/form-controls.xml
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Mozilla Public License 2.0](https://github.com/oxygenxml/authoringSamples/blob/master/LICENSE)
