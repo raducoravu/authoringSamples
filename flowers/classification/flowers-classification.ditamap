@@ -10,7 +10,7 @@
             <subjectref keyref="spring"></subjectref>
         </topicsubject>
         
-        <topicref href="../topics/flowers/iris.dita">
+        <topicref href="../topics/flowers/iris2.dita">
             <topicsubject keyref="family">
                 <subjectref keyref="iridaceae"></subjectref>
             </topicsubject>
